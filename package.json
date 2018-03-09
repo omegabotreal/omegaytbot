@@ -1,0 +1,13 @@
+{
+  "name": "OmegaBot",
+  "description": "Bot",
+  "version": "0.0.1",
+  "main": "OmegaBot.py",
+  "scripts": {
+    "start": "python OmegaBot.py"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
